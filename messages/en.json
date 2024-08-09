@@ -1,0 +1,12 @@
+{
+  "Home": {
+    "welcome": "Welcome to our website!",
+    "content": "This website was built using React and React-Router."
+  },
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, en {🇺🇸 English} ko {🇰🇷 Korean} jp {🇯🇵 Japanese} other {Unknown}}"
+  }
+}
+
+
